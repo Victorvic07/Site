@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vinext-starter
 
 A clean full-stack starter running on
@@ -96,3 +97,7 @@ actions tied to the current ChatGPT user. Leave public content anonymous.
 
 - [vinext Documentation](https://github.com/cloudflare/vinext)
 - [Drizzle D1 Guide](https://orm.drizzle.team/docs/get-started/d1-new)
+=======
+# Site
+Meu site
+>>>>>>> 6ec928c7343f8971decc4e64e6077042d25834b9
