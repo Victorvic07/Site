@@ -1,0 +1,19 @@
+PORTFOLIO DE JOAO VICTOR - CODIGO-FONTE
+
+O que voce precisa:
+- Node.js 22 ou mais recente.
+
+Como abrir no computador:
+1. Abra um terminal dentro desta pasta.
+2. Execute: npm install
+3. Execute: npm run dev
+4. Abra no navegador o endereco mostrado no terminal.
+
+Arquivos principais:
+- app/page.tsx: conteudo do portfolio.
+- app/globals.css: cores, layout e responsividade.
+- app/layout.tsx: titulo, descricao e imagem de compartilhamento.
+- public/og.png: imagem usada ao compartilhar o link.
+
+As pastas de dependencias e os arquivos temporarios nao foram incluidos. Eles
+sao recriados automaticamente pelo comando npm install.
